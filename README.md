@@ -1,4 +1,4 @@
-## Ma ciao sono Hisako il miglior cheater in zona! 
+## Hi I'm Hisako the best cheater in the area!
 <div align="center">
   <a href="https://github.com/ZannaSkull">
 
