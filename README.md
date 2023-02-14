@@ -1,4 +1,4 @@
-## Hi I'm Hisako the best cheater in the area!
+## Hi I'm Hisako the King of cheating and memory hacking on android ! 
 <div align="center">
   <a href="https://github.com/ZannaSkull">
 
