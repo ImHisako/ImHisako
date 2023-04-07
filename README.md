@@ -6,7 +6,8 @@
 <img align="left" src="https://raw.githubusercontent.com/ZannaSkull/ZannaSkull/main/Assets/UwU.jpg" alt="logo.jpg" width="200" /> 
 
 ```csharp
-Sowd@github
+
+Hello stalker
 ----------------
        OS  :  Windows 11 ReviOS
       CPU  :  AMD Ryzen 5 3600X 6-Core Processor 4,4 GHz
