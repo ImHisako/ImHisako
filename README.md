@@ -3,7 +3,7 @@
 > King of Cheating
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/ZannaSkull/ZannaSkull/main/Assets/UwU.jpg" alt="logo.jpg" width="200" /> 
+<img align="left" src="https://raw.githubusercontent.com/ZannaSkull/ZannaSkull/Main/Assets/UwU.jpg" alt="Logo.jpg" width="200" /> 
 
 ```csharp
 
