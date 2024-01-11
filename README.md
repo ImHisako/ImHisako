@@ -12,6 +12,7 @@ Hello stalker
        OS  :  Windows 11 ReviOS
       CPU  :  AMD Ryzen 5 3600X 6-Core Processor 4,4 GHz
       GPU  :  NVIDIA GeForce RTX 3060
+      RAM  :  32 GB Vengeance Pro 3600Mhz
     Alias  :  Oscuro/Hisako
 Languages  :  Lua, Python
   Discord  :  928787166916640838
