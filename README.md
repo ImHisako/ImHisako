@@ -14,8 +14,8 @@ Hello stalker
       GPU  :  NVIDIA GeForce RTX 3060
       RAM  :  32 GB Vengeance Pro 3600Mhz
     Alias  :  Oscuro/Hisako
-Languages  :  Lua, Python
   Discord  :  928787166916640838
+Languages  :  Lua & Python
 ```
 
 <p align="left">
