@@ -1,36 +1,207 @@
 {
-  "928787166916640838": [{"tooltip": "Illegalcord Owner", "badge": "https://i.pinimg.com/1200x/08/08/b7/0808b717977c0d086c1338a250184182.jpg"}, {"tooltip": "Opsec Demon", "badge": "https://i.pinimg.com/originals/74/1e/cd/741ecd47052dcf596c516cb99e265ff9.gif"}, {"tooltip": "Illegalcord Contributor", "badge": "https://i.pinimg.com/736x/bb/e5/53/bbe553e5ebac8c93c75b2673131af6f4.jpg"}],   
-  "1353316492296327219": [{"tooltip": "Opsec Demon", "badge": "https://i.pinimg.com/originals/74/1e/cd/741ecd47052dcf596c516cb99e265ff9.gif"}, {"tooltip": "Illegalcord Cavia", "badge": "https://i.pinimg.com/736x/0f/a9/9a/0fa99af2c7f37b8c8454825751c7eeab.jpg"}],
-  "341301663912558612": [{"tooltip": "Sayan", "badge": "https://i.pinimg.com/1200x/58/77/53/58775386d4d567d6bbf50e8652c0995d.jpg"}],  
-  "1410229608493879398": [{"tooltip": "Hisako's Own's", "badge": "https://i.pinimg.com/736x/82/df/ff/82dfff91432e2168e8d9fc2ab3559e88.jpg"}],   
-  "1469023347387007129": [{"tooltip": "Opsec Demon", "badge": "https://i.pinimg.com/originals/74/1e/cd/741ecd47052dcf596c516cb99e265ff9.gif"}],
-  "1277788603749105704": [{"tooltip": "Illegalcord Cavia", "badge": "https://i.pinimg.com/736x/0f/a9/9a/0fa99af2c7f37b8c8454825751c7eeab.jpg"}],  
-  "1464814367098011658": [{"tooltip": "ETH", "badge": "https://cdn.discordapp.com/icons/1464685360188621053/913c0ced545f85b90002bad49213b0d6.webp?size=512"}],
-  "965030274192797736": [{"tooltip": "ETH", "badge": "https://cdn.discordapp.com/icons/1464685360188621053/913c0ced545f85b90002bad49213b0d6.webp?size=512"}],
-  "1462639773758914736": [{"tooltip": "Antiflame", "badge": "https://cdn.discordapp.com/icons/1450599121223417876/a_47edac138f9e9aea7aba69e87bc3da97.webp?size=512&animated=true"}],
-  "1375533198947389451": [{"tooltip": "Antiflame", "badge": "https://cdn.discordapp.com/icons/1450599121223417876/a_47edac138f9e9aea7aba69e87bc3da97.webp?size=512&animated=true"}],
-  "1251774468699979857": [{"tooltip": "Antiflame", "badge": "https://cdn.discordapp.com/icons/1450599121223417876/a_47edac138f9e9aea7aba69e87bc3da97.webp?size=512&animated=true"}],
-  "1217231302630047836": [{"tooltip": "Antiflame", "badge": "https://cdn.discordapp.com/icons/1450599121223417876/a_47edac138f9e9aea7aba69e87bc3da97.webp?size=512&animated=true"}],
-  "1478436753701601303": [{"tooltip": "Antiflame", "badge": "https://cdn.discordapp.com/icons/1450599121223417876/a_47edac138f9e9aea7aba69e87bc3da97.webp?size=512&animated=true"}],
-  "398149190905102346": [{"tooltip": "Cat", "badge": "https://i.pinimg.com/736x/46/f4/88/46f4885495c1ed7ca2dbfd4787b06bb6.jpg"}],
-  "1486129265551610038": [{"tooltip": "Dog Lover", "badge": "https://i.pinimg.com/736x/ae/84/63/ae84631d4f686ea6f0026bb7c0688fe1.jpg"}],
-  "919951525579718666": [{"tooltip": "Meticolosa", "badge": "https://i.pinimg.com/1200x/8c/76/14/8c761424f98d2625a3f913f914811f8b.jpg"}],
-  "984938058921160724": [{"tooltip": "FakeException", "badge": "https://i.pinimg.com/736x/cf/c5/49/cfc549fb1bff2197427b30552e76d962.jpg"}],
-  "556560775020544011": [{"tooltip": "chill | no flame", "badge": "https://i.pinimg.com/736x/29/76/ec/2976ece959255ffa6d0aa6bd8b098b7a.jpg"}],
-  "1397155589045620847": [{"tooltip": "Catfish", "badge": "https://i.pinimg.com/736x/c9/c1/41/c9c1412402b2aefd35460ab785bc115a.jpg"}],
-  "456195985404592149": [{"tooltip": "Illegalcord Contributor", "badge": "https://i.pinimg.com/736x/bb/e5/53/bbe553e5ebac8c93c75b2673131af6f4.jpg"}],
-  "1471583920360390875": [{"tooltip": "Knifes", "badge": "https://i.pinimg.com/originals/be/bd/65/bebd654ce3241d54b5f32d57659fff81.gif"}, {"tooltip": "Illegalcord Cavia", "badge": "https://i.pinimg.com/736x/0f/a9/9a/0fa99af2c7f37b8c8454825751c7eeab.jpg"}]
+  "928787166916640838": {
+    "_comment": "Utente con 3 badge: Illegalcord Owner, Opsec Demon, Illegalcord Contributor.",
+    "badges": [
+      {
+        "tooltip": "Illegalcord Owner",
+        "badge": "https://i.pinimg.com/1200x/08/08/b7/0808b717977c0d086c1338a250184182.jpg"
+      },
+      {
+        "tooltip": "Opsec Demon",
+        "badge": "https://i.pinimg.com/originals/74/1e/cd/741ecd47052dcf596c516cb99e265ff9.gif"
+      },
+      {
+        "tooltip": "Illegalcord Contributor",
+        "badge": "https://i.pinimg.com/736x/bb/e5/53/bbe553e5ebac8c93c75b2673131af6f4.jpg"
+      }
+    ]
+  },
+  "1353316492296327219": {
+    "_comment": "Utente con 2 badge: Opsec Demon e Illegalcord Cavia.",
+    "badges": [
+      {
+        "tooltip": "Opsec Demon",
+        "badge": "https://i.pinimg.com/originals/74/1e/cd/741ecd47052dcf596c516cb99e265ff9.gif"
+      },
+      {
+        "tooltip": "Illegalcord Cavia",
+        "badge": "https://i.pinimg.com/736x/0f/a9/9a/0fa99af2c7f37b8c8454825751c7eeab.jpg"
+      }
+    ]
+  },
+  "341301663912558612": {
+    "_comment": "Utente con badge Sayan.",
+    "badges": [
+      {
+        "tooltip": "Sayan",
+        "badge": "https://i.pinimg.com/1200x/58/77/53/58775386d4d567d6bbf50e8652c0995d.jpg"
+      }
+    ]
+  },
+  "1410229608493879398": {
+    "_comment": "Utente con badge Hisako's Own's.",
+    "badges": [
+      {
+        "tooltip": "Hisako's Own's",
+        "badge": "https://i.pinimg.com/736x/82/df/ff/82dfff91432e2168e8d9fc2ab3559e88.jpg"
+      }
+    ]
+  },
+  "1469023347387007129": {
+    "_comment": "Utente con badge Opsec Demon.",
+    "badges": [
+      {
+        "tooltip": "Opsec Demon",
+        "badge": "https://i.pinimg.com/originals/74/1e/cd/741ecd47052dcf596c516cb99e265ff9.gif"
+      }
+    ]
+  },
+  "1277788603749105704": {
+    "_comment": "Utente con badge Illegalcord Cavia.",
+    "badges": [
+      {
+        "tooltip": "Illegalcord Cavia",
+        "badge": "https://i.pinimg.com/736x/0f/a9/9a/0fa99af2c7f37b8c8454825751c7eeab.jpg"
+      }
+    ]
+  },
+  "1464814367098011658": {
+    "_comment": "Utente con badge ETH.",
+    "badges": [
+      {
+        "tooltip": "ETH",
+        "badge": "https://cdn.discordapp.com/icons/1464685360188621053/913c0ced545f85b90002bad49213b0d6.webp?size=512"
+      }
+    ]
+  },
+  "965030274192797736": {
+    "_comment": "Utente con badge ETH.",
+    "badges": [
+      {
+        "tooltip": "ETH",
+        "badge": "https://cdn.discordapp.com/icons/1464685360188621053/913c0ced545f85b90002bad49213b0d6.webp?size=512"
+      }
+    ]
+  },
+  "1462639773758914736": {
+    "_comment": "Utente con badge Antiflame.",
+    "badges": [
+      {
+        "tooltip": "Antiflame",
+        "badge": "https://cdn.discordapp.com/icons/1450599121223417876/a_47edac138f9e9aea7aba69e87bc3da97.webp?size=512&animated=true"
+      }
+    ]
+  },
+  "1375533198947389451": {
+    "_comment": "Utente con badge Antiflame.",
+    "badges": [
+      {
+        "tooltip": "Antiflame",
+        "badge": "https://cdn.discordapp.com/icons/1450599121223417876/a_47edac138f9e9aea7aba69e87bc3da97.webp?size=512&animated=true"
+      }
+    ]
+  },
+  "1251774468699979857": {
+    "_comment": "Utente con badge Antiflame.",
+    "badges": [
+      {
+        "tooltip": "Antiflame",
+        "badge": "https://cdn.discordapp.com/icons/1450599121223417876/a_47edac138f9e9aea7aba69e87bc3da97.webp?size=512&animated=true"
+      }
+    ]
+  },
+  "1217231302630047836": {
+    "_comment": "Utente con badge Antiflame.",
+    "badges": [
+      {
+        "tooltip": "Antiflame",
+        "badge": "https://cdn.discordapp.com/icons/1450599121223417876/a_47edac138f9e9aea7aba69e87bc3da97.webp?size=512&animated=true"
+      }
+    ]
+  },
+  "1478436753701601303": {
+    "_comment": "Utente con badge Antiflame.",
+    "badges": [
+      {
+        "tooltip": "Antiflame",
+        "badge": "https://cdn.discordapp.com/icons/1450599121223417876/a_47edac138f9e9aea7aba69e87bc3da97.webp?size=512&animated=true"
+      }
+    ]
+  },
+  "398149190905102346": {
+    "_comment": "Utente con badge Cat.",
+    "badges": [
+      {
+        "tooltip": "Cat",
+        "badge": "https://i.pinimg.com/736x/46/f4/88/46f4885495c1ed7ca2dbfd4787b06bb6.jpg"
+      }
+    ]
+  },
+  "1486129265551610038": {
+    "_comment": "Utente con badge Dog Lover.",
+    "badges": [
+      {
+        "tooltip": "Dog Lover",
+        "badge": "https://i.pinimg.com/736x/ae/84/63/ae84631d4f686ea6f0026bb7c0688fe1.jpg"
+      }
+    ]
+  },
+  "919951525579718666": {
+    "_comment": "Utente con badge Meticolosa.",
+    "badges": [
+      {
+        "tooltip": "Meticolosa",
+        "badge": "https://i.pinimg.com/1200x/8c/76/14/8c761424f98d2625a3f913f914811f8b.jpg"
+      }
+    ]
+  },
+  "984938058921160724": {
+    "_comment": "Utente con badge FakeException.",
+    "badges": [
+      {
+        "tooltip": "FakeException",
+        "badge": "https://i.pinimg.com/736x/cf/c5/49/cfc549fb1bff2197427b30552e76d962.jpg"
+      }
+    ]
+  },
+  "556560775020544011": {
+    "_comment": "Utente con badge chill | no flame.",
+    "badges": [
+      {
+        "tooltip": "chill | no flame",
+        "badge": "https://i.pinimg.com/736x/29/76/ec/2976ece959255ffa6d0aa6bd8b098b7a.jpg"
+      }
+    ]
+  },
+  "1397155589045620847": {
+    "_comment": "Utente con badge Catfish.",
+    "badges": [
+      {
+        "tooltip": "Catfish",
+        "badge": "https://i.pinimg.com/736x/c9/c1/41/c9c1412402b2aefd35460ab785bc115a.jpg"
+      }
+    ]
+  },
+  "456195985404592149": {
+    "_comment": "Utente con badge Illegalcord Contributor.",
+    "badges": [
+      {
+        "tooltip": "Illegalcord Contributor",
+        "badge": "https://i.pinimg.com/736x/bb/e5/53/bbe553e5ebac8c93c75b2673131af6f4.jpg"
+      }
+    ]
+  },
+  "1471583920360390875": {
+    "_comment": "Utente con 2 badge: Knifes e Illegalcord Cavia.",
+    "badges": [
+      {
+        "tooltip": "Knifes",
+        "badge": "https://i.pinimg.com/originals/be/bd/65/bebd654ce3241d54b5f32d57659fff81.gif"
+      },
+      {
+        "tooltip": "Illegalcord Cavia",
+        "badge": "https://i.pinimg.com/736x/0f/a9/9a/0fa99af2c7f37b8c8454825751c7eeab.jpg"
+      }
+    ]
+  }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
